@@ -2,7 +2,7 @@
 
 ## Configuration
 
-I would like to thanks [vincentbernat](https://github.com/vincentbernat) from [exoscale.ch](https://www.exoscale.ch) who kindly provided the infrastructure needed for the benchmarks.
+I would like to give my thanks to [vincentbernat](https://github.com/vincentbernat) from [exoscale.ch](https://www.exoscale.ch) who kindly provided the infrastructure needed for the benchmarks.
 
 I used 4 VMs for the tests with the following configuration:
 
